@@ -15,7 +15,7 @@ void intro()
     cout << "\n\x1b[41m                                           \x1b[1mB A N K   M A N A G E M E N T   S Y S T E M                                              \x1b[0m\x1b[0m";
     cout << "\n\x1b[41m                                                                                                                                    \x1b[0m";
     cout << "\n\x1b[41m                                                                                                                                    \x1b[0m";
-    cout << "\n\n\n\n\x1b[33mMADE BY : Ayush Katariya\n\nUniversity Roll No. : 201151\n\nGraphic Era Deemed To Be University.\n\nEnter 'Y' to contiue  :  \x1b[0m";
+    cout << "\n\n\n\n\x1b[33mMADE BY : Ayush Katariya\n\nUniversity Roll No. : 2021151\n\nGraphic Era Deemed To Be University.\n\nEnter 'Y' to contiue  :  \x1b[0m";
     char y;
     cin >> y;
 }
